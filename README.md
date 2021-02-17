@@ -4,7 +4,7 @@ A modified version of WyvernD's DDR A20 theme to target accuracy, performance is
 https://youtu.be/eu7B8clMR8A
 
 I've deleted the old repository as I've found that Sparsus's theme uses nearly my entire version of the A20 theme
-as a base without crediting me,  tertu, WyvernD, or anyone else that had a part in it. The last time this theme was worked on was July 2020.
+as a base without crediting me,  tertu, WyvernD, or anyone else that had a part in it. Yes it sounds sketchy but I wasn't thinking when I deleted it. The last time this theme was worked on was July 2020.
 
 My work is displayed on the right in the screenshots.
 
