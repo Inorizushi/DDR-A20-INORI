@@ -18,4 +18,5 @@ Yes, but at least I apologized and either stopped working on things, gave proper
 
 You could've at least credited me, but you didn't.
 
-I'm still providing a zip file of my version of the theme up to the last things I worked on it. Do not expect anymore DDR theme work from me for a while.
+I'm still providing a zip file of my version of the theme up to the last things I worked on it. 
+### Do not expect anymore DDR theme work from me for a while.
