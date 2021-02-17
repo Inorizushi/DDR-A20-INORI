@@ -13,6 +13,13 @@ My work is displayed on the right in the screenshots.
 ![ScreenPlayerOptions underlay lua](https://github.com/Inorizushi/DDR-A20-INORI/blob/master/Code_N4VqU5KpWR.png?raw=true)
 ![ScreenPlayerOptions underlay folder](https://github.com/Inorizushi/DDR-A20-INORI/blob/master/Code_ieYPOKualt.png?raw=true)
 
+Twitter Posts where I showed updates:
+https://twitter.com/Inorizushi/status/1251257696403275776
+https://twitter.com/Inorizushi/status/1244182867799916544
+https://twitter.com/Inorizushi/status/1243803145861566466
+https://twitter.com/Inorizushi/status/1243552201689235456
+https://twitter.com/Inorizushi/status/1243511518735544320
+
 Before you say, "But Inori, you've stolen code before too!"
 Yes, but at least I apologized and either stopped working on things, gave proper credit, or re-wrote the code used.
 
