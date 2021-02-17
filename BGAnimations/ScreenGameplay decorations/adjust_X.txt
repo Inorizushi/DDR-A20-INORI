@@ -1,0 +1,33 @@
+--calculate (stepstype + meter) width P1--
+local sDiffWidthP1 = 0;
+local sMeterWidthP1 = 0;
+local diffP1 = GAMESTATE:GetCurrentSteps(PLAYER_1):GetDifficulty();
+local sDifficulty = ToEnumShortString( diffP1 );
+local meterP1 = tonumber(GAMESTATE:GetCurrentSteps(PLAYER_1):GetMeter());
+
+if meterP1 <= 0 then
+	sMeterWidthP1 = 18;
+elseif meterP1 <= 9 then
+	sMeterWidthP1 = 18 ;
+elseif meterP1 <= 99 then
+	sMeterWidthP1 = 0;
+else
+	sMeterWidthP1 = -18;
+end;
+
+if sDifficulty == 'Beginner' then
+	sDiffWidthP1 = 85;
+elseif sDifficulty == 'Easy' then
+	sDiffWidthP1 = 52;
+elseif sDifficulty == 'Medium' then
+	sDiffWidthP1 = 84;
+elseif sDifficulty == 'Hard' then
+	sDiffWidthP1 = 62;
+elseif sDifficulty == 'Challenge' then
+	sDiffWidthP1 = 86;
+else
+	sDiffWidthP1 = 40;
+end;
+
+local totalWidthP1 = sDiffWidthP1 + sMeterWidthP1;
+local additionXPosP1 = totalWidthP1 / 2 - 42;
